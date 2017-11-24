@@ -1,4 +1,3 @@
-
 function Phone(brand ,color ,memory ,price) {
 	this.brand = brand;
 	this.price = price;
