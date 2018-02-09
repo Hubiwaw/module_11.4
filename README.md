@@ -1,4 +1,4 @@
-# Project module 11.4
+# Project module 11.4(method and prototype)
 - module 11.4
 
 lerem ipsum
